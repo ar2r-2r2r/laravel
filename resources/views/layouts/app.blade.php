@@ -11,7 +11,7 @@
 </head>
 <body>
     @include('inc.header')
-    <div class="container">
+    <div class="container mt-5">
         <div class="row">
             <div class="col-8">
                 @yield('content')
