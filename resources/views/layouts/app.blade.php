@@ -14,6 +14,7 @@
     @yield('content')
 
     @include('inc.aside')
+    @include('inc.footer')
 
 </body>
 </html>
