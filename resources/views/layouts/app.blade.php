@@ -11,7 +11,7 @@
 </head>
 <body>
     @include('inc.header')
-
+    
 
     @if(Request::is('/'))
         @include('inc.hero')
